@@ -6,6 +6,9 @@ git clone https://github.com/6arlos6/qml-siqia.git
 cd repo-qml-siqia
 
 
+### Poner su nombre antes de iniciar:
+<git config --global user.name "Su Nombre">
+<git config --global user.email "email_con_el_que_se_registraron_en_github">
 
 # Paso 2: ubicarse en su rama
 
