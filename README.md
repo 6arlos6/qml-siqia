@@ -30,6 +30,6 @@ Por ejemplo: crear un notebook o una carpeta...
 Luego:
 ```
 git add .
-git commit -m "Avance de Ana en módulo X"
-git push origin estudiante-ana
+git commit -m "Avance de Natalia en módulo X"
+git push origin natalia
 ```
